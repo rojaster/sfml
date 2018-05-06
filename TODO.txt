@@ -1,0 +1,5 @@
+# Skill Factory Practical Machine Learning Course
+
+* TODO
+** DONE install environments
+** TODO Python precourse
