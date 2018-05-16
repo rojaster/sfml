@@ -2,4 +2,7 @@
 
 * TODO
 ** DONE install environments
-** TODO Python precourse
+** DONE Python precourse
+
+** TODO Practical ML First week
+*** TODO HomeWork 1
