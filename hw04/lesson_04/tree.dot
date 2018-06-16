@@ -1,0 +1,8 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="mileage <= 88832.5\nmse = 4239303.152\nsamples = 417\nvalue = 12084.242"] ;
+1 [label="mse = 3006130.67\nsamples = 203\nvalue = 13239.0"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="mse = 2944261.788\nsamples = 214\nvalue = 10988.841"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
